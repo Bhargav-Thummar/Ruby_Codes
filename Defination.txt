@@ -1,0 +1,21 @@
+Title :- online book store
+
+# there will be two parts.
+    1 -> store keeper who manages the store.  
+    2 -> Buyers/Customer
+
+Functionalities :-
+
+=> From store-keeper side :-
+   1. Admin login
+   2. He can add the new books and also remove the books
+   3. He can perform CRUD operation on stock.
+
+=> From Buyer side :-
+   1. Registration of Buyer
+   2. login  
+   3. Add to cart
+   4. Billing
+   5. Searching
+
+   
